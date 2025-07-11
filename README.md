@@ -15,7 +15,6 @@ The system allows users to register with a username and password, store credenti
 ---
 
 ## 📁 Project Structure
-<<<<<<< HEAD
 
 UserAuthProject/
 
@@ -33,25 +32,6 @@ UserAuthProject/
 
 └── README.md
 
-=======
-
-UserAuthProject/
-
-├── main.cpp
-
-├── User.h
-
-├── User.cpp
-
-├── AuthSystem.h
-
-├── AuthSystem.cpp
-
-├── users.txt # Stores registered usernames and passwords
-
-└── README.md
-
->>>>>>> 0da4641 (comments)
 
 ---
 
